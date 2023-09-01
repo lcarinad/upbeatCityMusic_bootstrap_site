@@ -1,0 +1,26 @@
+body::before {
+  display: block;
+  content: "";
+  height: 60px;
+}
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+/* .navbar-brand {
+  position: relative;
+  background: url(../images/logo.png);
+  width: 50px;
+  left: 15px;
+  background-size: contain;
+} */
+
+mural-colors {
+  color: #fbc81f;
+  color: #e77cb9;
+  color: #005ea7;
+  color: #fac800;
+  color: #2f4370;
+}
